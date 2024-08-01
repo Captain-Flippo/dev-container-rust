@@ -26,7 +26,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "sudo bash ./scripts/install_omf.sh",
+	"postCreateCommand": "sudo bash ./scripts/install_powerline_fonts.sh",
 
 	// Configure tool-specific properties.
 	"customizations": {
